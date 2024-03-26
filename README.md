@@ -4,7 +4,6 @@
 <a href="https://linkedin.com/in/suvanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvanshhh" height="30" width="40" /></a>
 <a href="https://kaggle.com/suvanshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suvanshchoudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/suvan.shhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvan.shhh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/short circuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="short circuit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cocobuff_suvansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cocobuff_suvansh" height="30" width="40" /></a>
 </p>
 
