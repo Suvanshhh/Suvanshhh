@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suvansh Choudhary</h1>
+<h4>A B.Tech undergraduate student with a passion for development and machine learning. My journey spans hands-on experience and leadership roles, where I’ve been fortunate to develop a unique blend of technical and managerial skills.
+
+As a Core ML Team Member at UiPath and Senior Executive for Sponsorship & PR at FED-KIIT, I’ve built a foundation in project management, strategic communication, and negotiation. My role as Marketing Lead at KIIT Robotics Society further strengthened my ability to manage teams, coordinate large-scale projects, and engage with diverse stakeholders.
+
+📈 Beyond academics, my interests range from exploring the latest in tech development to discovering new perspectives through podcasts. I’m constantly looking to contribute to impactful projects, collaborate with like-minded professionals, and make meaningful strides in the tech world.
+
+Feel free to reach out if you'd like to connect or discuss potential opportunities in development, machine learning, or project management!
+
+</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suvanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvanshhh" height="30" width="40" /></a>
